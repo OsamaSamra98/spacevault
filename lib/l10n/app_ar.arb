@@ -1,0 +1,28 @@
+{
+  "albums":"ألبومات",
+  "passwords":"كلمات المرور",
+  "contacts":"جهات الإتصال ",
+  "settings":"الإعدادات",
+  "faceID" :"التعرف على الوجه",
+  "changePasscode":"تغيير كلمة المرور ",
+  "appearance":"المظهر",
+  "language":"اللغة",
+  "newPassword":"كلمة مرور جديدة",
+  "title":"العنوان",
+  "loginAccount":"إسم الحساب",
+  "password":"كلمة المرور",
+  "website":"الموقع الإلكتروني",
+  "save":"حفظ",
+  "edit":"تعديل",
+  "delete":"حذف",
+  "detail":"التفاصيل",
+  "editAccount":"تعديل الحساب",
+  "accountsaved":"تم حفظ الحساب بنجاح",
+  "failedtoSave":"فشل في الحفظ",
+  "enterRequireddata":"أدخل البيانات المطلوبة !",
+  "nopassword":"لا يوجد كلمات مرور",
+  "donthaveyet":"انت لا تمتلك كلمات مرور حتى اللحظة",
+  "create":"إضافة",
+  "aboutapp":"عن التطبيق"
+
+}

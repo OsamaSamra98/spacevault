@@ -1,0 +1,31 @@
+{
+  "albums":"Albums",
+  "passwords":"Passwords",
+  "contacts":"Contacts",
+  "settings":"Settings",
+  "faceID" :"FaceID",
+  "changePasscode":"Change Passcode",
+  "appearance":"Appearance",
+  "language":"Language",
+  "newPassword":"New Password",
+  "title":"Title",
+  "loginAccount":"Login Account",
+  "password":"Password",
+  "website":"Website",
+  "save":"Save",
+  "edit":"Edit",
+  "delete":"Delete",
+  "detail":"Detail",
+  "editAccount":"Edit Account",
+  "accountsaved":"Account Saved Successfully",
+  "failedtoSave":"Failed to Save",
+  "enterRequireddata":"Enter Required data !",
+  "nopassword":"No Password",
+  "donthaveyet":"You dont have any passwords yet",
+  "create":"Create",
+  "aboutapp":"About App"
+
+
+
+
+}
