@@ -1,6 +1,7 @@
 # project_spacevault
 
-A new Flutter project.
+Vault app UI Kit is an app that secures your private photos,  In Vault app, your information will be kept secret and accessible only after entering a numeric PIN on the application's control panel.
+
 
 ## Getting Started
 
